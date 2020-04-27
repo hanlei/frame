@@ -1,0 +1,3 @@
+[submodule "modules/tools"]
+	path = modules/tools
+	url = https://github.com/hanlei/tools.git
