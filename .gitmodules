@@ -1,3 +1,6 @@
 [submodule "modules/tools"]
 	path = modules/tools
 	url = https://github.com/hanlei/tools.git
+[submodule "modules/sou"]
+	path = modules/sou
+	url = https://github.com/hanlei/tools.git
